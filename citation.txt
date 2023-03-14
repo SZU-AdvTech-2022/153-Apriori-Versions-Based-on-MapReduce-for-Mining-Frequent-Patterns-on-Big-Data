@@ -1,0 +1,9 @@
+@article{REPO-154,
+    author = "Luna, Jos¨¦ Mar¨ªa and Padillo, Francisco and Pechenizkiy, Mykola and Ventura, Sebasti¨¢n",
+    journal = "IEEE Transactions on Cybernetics",
+    number = "10",
+    pages = "2851-2865",
+    title = "{Apriori Versions Based on MapReduce for Mining Frequent Patterns on Big Data}",
+    volume = "48",
+    year = "2018"
+}
